@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/ZTE-Modem-TimeSync-Shortcut
+/main/IMG/1.PNG" width="300"></img>
 </p>
 
 ## 📖 项目背景
@@ -23,6 +24,12 @@
 - **心理疾病风险**：桥接模式下时间错误的光猫可能会导致上网冲浪时的心理断流。
 
 本项目通过 macOS **快捷指令 (Shortcuts)** 自动化运行 Shell 脚本，实现**秒级精准对时**，让光猫在最稳定的状态下运行。
+
+## 🌟 项目脚本
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/ZTE-Modem-TimeSync-Shortcut
+/main/IMG/1330.PNG" width="800"></img>
+</p>
 
 ## ✨ 功能亮点
 
