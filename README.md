@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/ZTE-Modem-TimeSync-Shortcut
-/main/IMG/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/ZTE-Modem-TimeSync-Shortcut/main/IMG/1.PNG" width="800"></img>
 </p>
 
 ## 📖 项目背景
@@ -27,8 +26,7 @@
 
 ## 🌟 项目脚本
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/ZTE-Modem-TimeSync-Shortcut
-/main/IMG/1330.PNG" width="800"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/ZTE-Modem-TimeSync-Shortcut/main/IMG/1330.PNG" width="800"></img>
 </p>
 
 ## ✨ 功能亮点
