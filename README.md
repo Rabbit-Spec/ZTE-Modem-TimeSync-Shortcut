@@ -58,6 +58,8 @@ brew install expect
 
 ### **现在运行刚才下载的快捷指令即可✅**
 
+---
+
 ## 🚀 Windows PowerShell
 点击下方链接导入封装好的PowerShell脚本：
 👉 **[点击直接下载PowerShell脚本](https://pan.baidu.com/s/1d0ZGMlaTD3GpHlY3rztzCg?pwd=ddqq)**
