@@ -62,6 +62,16 @@ brew install expect
 👉 **[点击直接下载PowerShell脚本](https://pan.baidu.com/s/1d0ZGMlaTD3GpHlY3rztzCg?pwd=ddqq)**
 #### **右键点击该文件，选择 “使用 PowerShell 运行”。**
 
+---
+
+## ☕ 赞助与支持
+
+如果你觉得 **Rabbit-Spec** 的 华硕路由器「设备图标」补完计划 对你有帮助，欢迎请我喝杯咖啡。
+
+👉 [点击前往爱发电支持我](https://afdian.com/a/Rabbit-Spec)
+
+---
+
 ## 📜 免责声明
 Rabbit-Spec仓库内容仅用于技术交流。
 
