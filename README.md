@@ -57,7 +57,12 @@ brew install expect
 ```
 #### **安装完成后，执行 expect -v 若显示版本号即安装成功。**
 
-#### **现在运行刚才下载的快捷指令即可✅**
+### **现在运行刚才下载的快捷指令即可✅**
+
+## 🚀 Windows PowerShell
+点击下方链接导入封装好的PowerShell脚本：
+👉 **[点击直接下载PowerShell脚本](https://pan.baidu.com/s/1d0ZGMlaTD3GpHlY3rztzCg?pwd=ddqq)**
+#### **右键点击该文件，选择 “使用 PowerShell 运行”。**
 
 ## 📜 免责声明
 Rabbit-Spec仓库内容仅用于技术交流。
